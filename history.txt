@@ -1,0 +1,832 @@
+    1  sudo apt-get install codeblocks
+    2  deb http://ftp.de.debian.org/debian sid main 
+    3  sudo su
+    4  apt - get install apt-mirror
+    5  apt-get install aot-mirror
+    6  apt-get install apt-mirror
+    7  sudo apt-get install apt-mirror
+    8  sudo ls -la /root
+    9  apt-get install apt-mirror
+   10  sudo apt-get install apt-mirror
+   11  root
+   12  sudo root
+   13  uname -a
+   14  apt-cdrom add
+   15  sudo apt-get install codeblocks
+   16  sudo dpkg -i codeblocks_16.01+dfsg-2.1_amd64.deb
+   17  /Downloads sudo dpkg -i codeblocks_16.01+dfsg-2.1_amd64.deb
+   18  Downloads sudo dpkg -i codeblocks_16.01+dfsg-2.1_amd64.deb
+   19  /Downloads $ sudo apt install ./teamviewer_amd64.deb
+   20  Downloads $ sudo apt install ./teamviewer_amd64.deb
+   21  sudo apt-get install synaptic
+   22  sudo -i /Downloads/to/deb/synaptic_0.90+nmu1_i386.deb
+   23  sudo dpkg -i /Downloads/to/deb/synaptic_0.90+nmu1_i386.deb
+   24  sudo dpkg -i /Downloads/to/deb/synaptic_0.90+nmu1_i386
+   25  sudo dpkg -i /Downloads/synaptic_0.90+nmu1_i386
+   26  cd Downloads
+   27  sudo dpkg --installsynaptic_0.90+nmu1_i386.deb
+   28  sudo apt -f install
+   29  sudo dpkg --installsynaptic_0.90+nmu1_i386.deb
+   30  sudo dpkg --install codeblocks_16.01+dfsg-2.1_amd64.deb
+   31  sudo apt -f install
+   32  dpkg --status codeblocks
+   33  sudo dpkg --install codeblocks_16.01+dfsg-2.1_amd64.deb
+   34  sudo apt -f install
+   35  dpkg --status Code::Blocks
+   36  sudo apkg --install synaptic_0.90+nmu1_i386.deb
+   37  sudo dpkg --install codeblocks_16.01+dfsg-2.1_amd64.deb
+   38  sudo dpkg --install synaptic_0.90+nmu1_i386.deb
+   39  sudo dpkg --install synaptic_0.90+nmu1_amd64.deb
+   40  sudo apt -f install
+   41  sudo dpkg --install synaptic_0.90+nmu1_amd64.deb
+   42  sudo dpkg -i synaptic_0.90+nmu1_amd64.deb
+   43  sudo dpkg -i codeblocks_16.01+dfsg-2.1_amd64(1).deb
+   44  sudo dpkg --install codeblocks_16.01+dfsg-2.1_amd64(1).deb
+   45  sudo dpkg --install codeblocks.deb
+   46  sudo apt -f install
+   47  cd Downloads
+   48  ls
+   49  ./balenaEtcher-1.5.109-x64.AppImage
+   50  ./balenaEtcher-1.5.109-x64.zip
+   51  ls
+   52  ./unetbootin-linux64-681.bin
+   53  sudo add-apt-repository ppa:gezakovacs/ppa
+   54  sudo apt-get install unetbootin
+   55  sudo apt-get install unetbootin-linux64-681.bin
+   56  cat ubuntu-20.04.1-desktop-amd64.iso > /dev/sdDebian 10.5.0 amd64 1; sync
+   57  root
+   58  exit
+   59  cd Downloads
+   60  sudo dd if=/ubuntu-20.04.1-desktop-amd64.iso of=/dev/sdb
+   61  exit
+   62  sudo dd if=/home/philani/Downloads/ubuntu-20.04.1-desktop-amd64.iso of=/dev/sdb
+   63  exit
+   64  root
+   65  sudo apt-get install codeblocks
+   66  sudo
+   67  root
+   68  philani
+   69  ls
+   70  cd ..
+   71  ls
+   72  cd ..
+   73  ls
+   74  cd bin
+   75  ls
+   76  cd
+   77  ls
+   78  cd Downloads/
+   79  ls
+   80  cd
+   81  sudo apt-get install wine
+   82  sudo dpkg --add-architecture i386 
+   83  wget -nc https://dl.winehq.org/wine-builds/Release.key
+   84  sudo apt-key add Release.key
+   85  sudo apt-add-repository https://dl.winehq.org/wine-builds/ubuntu/
+   86  sudo apt-get update
+   87  sudo apt-get install --install-recommends winehq-stable
+   88  sudo apt-get install --install-recommends wine-stable
+   89  sudo apt update && sudo apt install --install-recommends winehq-stable
+   90  sudo dpkg --add-architecture i386
+   91  sudo apt update
+   92  sudo apt -y install gnupg2 software-properties-common
+   93  sudo apt update
+   94  sudo apt -y install gnupg2 software-properties-common
+   95  wget -qO - https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add -
+   96  sudo apt-add-repository https://dl.winehq.org/wine-builds/debian/
+   97  wget -O- -q https://download.opensuse.org/repositories/Emulators:/Wine:/Debian/Debian_10/Release.key | sudo apt-key add -    
+   98  python /home/philani/Downloads/FirstProgram/p.py
+   99  cd "/home/philani/Downloads/FirstProgram/" && g++ philani.cpp -o philani && "/home/philani/Downloads/FirstProgram/"philani
+  100  codeblocks
+  101  close codeblocks
+  102  quit codeblocks
+  103  sudo apt install teams_1.3.00.16851_amd64.deb
+  104  sudo apt install ./teams_1.3.00.16851_amd64.deb
+  105  teams
+  106  ls
+  107  sudo apt install ./code_1.49.1-1600299189_amd64.deb
+  108  code
+  109  mkdir FirstProgram
+  110  cd FirstProgram/
+  111  code philani.cpp
+  112  code p.py
+  113  cd
+  114  gcc -v
+  115  sudo apt-get update
+  116  sudo apt-get install build-essential gdb
+  117  sudo apt-get update
+  118  cd Downloads
+  119  sudo apt-get update
+  120  cd
+  121  gcc -v
+  122  sudo apt-get update
+  123  sudo apt-get install build-essential gdb
+  124  teams
+  125  sudo apt-get install codeblocks
+  126  echo "deb http://download.opensuse.org/repositories/Emulators:/Wine:/Debian/Debian_10 ./"
+  127  sudo apt install --install-recommends winehq-stable
+  128  sudo apt update
+  129  sudo apt install --install-recommends winehq-stable
+  130  echo "deb http://download.opensuse.org/repositories/Emulators:/Wine:/Debian/Debian_10 ./" | sudo tee /etc/apt/sources.list.d/wine-obs.list
+  131  sudo apt update
+  132  sudo apt install --install-recommends winehq-stable
+  133  sudo dpkg --add-architecture i386 
+  134  sudo apt update
+  135  sudo apt -y install gnupg2 software-properties-common
+  136  wget -qO - https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add -
+  137  sudo apt-add-repository https://dl.winehq.org/wine-builds/debian/
+  138  wget -O- -q https://download.opensuse.org/repositories/Emulators:/Wine:/Debian/Debian_10/Release.key | sudo apt-key add -    
+  139  echo "deb http://download.opensuse.org/repositories/Emulators:/Wine:/Debian/Debian_10 ./" | sudo tee /etc/apt/sources.list.d/wine-obs.list
+  140  sudo apt update
+  141  apt list --upgradable
+  142  sudo apt install --install-recommends winehq-stable
+  143  wine --version
+  144  cd Download
+  145  cd Downloads
+  146  wine ./codeblocks-20.03mingw-32bit-setup.exe 
+  147  cd Downloads
+  148  sudo apt-get install google
+  149  sudo apt-get install ./google-chrome-stable_current_amd64.deb
+  150  chrome
+  151  google chrome
+  152  Google Chrome
+  153  cd
+  154  sudo snap install unofficial-webapp-office
+  155  snap install unofficial-webapp-office
+  156  wget -q "http://deb.playonlinux.com/public.gpg" -O- | sudo apt-key add -
+  157  sudo wget http://deb.playonlinux.com/playonlinux_precise.list -O /etc/apt/sources.list.d/playonlinux.list
+  158  sudo apt update
+  159  sudo apt install playonlinux
+  160  playonlinux
+  161  sudo dpkg
+  162  dpkg --list
+  163  wine
+  164  wine codevlocks
+  165  wine codeblocks
+  166  sudo bluetooth-agent 1234
+  167  systemctl status bluetooth
+  168  sudo rfkill
+  169  sudo apt install bluetooth rfkill gnome-bluetooth bluez bluez-tools
+  170  systemctl status bluetooth
+  171  sudo systemctl restart bluetooth
+  172  sudo rfkill 
+  173  bluetoothctl 
+  174  rfkill unblock hci0
+  175  systemctl start bluetooth
+  176  rfkill unblock bluetooth
+  177  sudo /etc/init.d/bluetooth start
+  178  sudo apt-get purge blueman bluez-utils bluez bluetooth
+  179  sudo apt-get install blueman bluez-utils bluez bluetooth
+  180  sudo /etc/init.d/bluetooth start
+  181  sudo apt-get install blueman bluez-utils bluez bluetooth
+  182  sudo apt install bluetooth rfkill gnome-bluetooth bluez bluez-tools
+  183  sudo rfkill
+  184  rfkill unblock hci0
+  185  bluetoothctl
+  186  systemctl status bluetooth
+  187  sudo apt-get install pulseaudio-module-bluetooth
+  188  sudo systemctl start bluetooth.service
+  189  bluetoothctl
+  190  $ sudo bluetoothctl
+  191  sudo bluetoothctl
+  192  rfkill list all
+  193  sudo apt-get update
+  194  sudo apt-get upgrade
+  195  sudo apt-get install rfkill
+  196  sudo rfkill
+  197  sudo rfkill list all
+  198  sudo bluetoothctl list
+  199  bluetoothctl list
+  200  sudo groupadd bluetooth
+  201  sudo vi /etc/dbus-1/system.d/bluetooth.conf
+  202  sudo usermod -a -G bluetooth <loginuser>
+  203  sudo usermod -a -G bluetooth<loginuser>
+  204  bluetoothctl
+  205  cd Downloads
+  206  sudo apt install ./bluetooth_5.50-1.2_deb10u1_all.deb 
+  207  cd
+  208  sudo rfkill list
+  209  sudo rfkill unblock bluetooth
+  210  sudo service bluetooth start
+  211  sudo apt-get install blueman
+  212  blutooth manager
+  213  # service bluetooth status
+  214  service bluetooth status
+  215  cd
+  216  cd Downloads
+  217  sudo apt install ./bluetooth_5.50-1.2_deb10u1_all.deb 
+  218  sudo apt-get update
+  219  sudo apt-get install ./bluetooth_5.50-1.2_deb10u1_all.deb 
+  220  sudo apt-get install bluetooth_5.50-1.2_deb10u1_all.deb 
+  221  sudo dpkg -i bluetooth_5.50-1.2_deb10u1_all.deb 
+  222  sudo /etc/init.d/bluetooth start
+  223  cd "/home/philani/Downloads/FirstProgram/" && g++ philani.cpp -o philani && "/home/philani/Downloads/FirstProgram/"philani
+  224  code
+  225  cd Documents
+  226  cd BscINFORMATICS/
+  227  cd COS1512/
+  228  cd Assignment1/
+  229  ls
+  230  g++ question1.cpp
+  231  ls
+  232  ./a.out
+  233  g++ question1.cpp
+  234  ./a.out
+  235  clear
+  236  g++ question1.cpp
+  237  ./a.out
+  238  g++ question1.cpp
+  239  ./a.out
+  240  g++ question1.cpp
+  241  ./a.out
+  242  g++ question1.cpp
+  243  ./a.out
+  244  g++ question1.cpp
+  245  ./a.out
+  246  clear
+  247  g++ question1.cpp
+  248  ./a.out
+  249  g++ question1.cpp
+  250  ./a.out
+  251  g++ question1.cpp
+  252  ./a.out
+  253  clear
+  254  g++ question1.cpp
+  255  ./a.out
+  256  g++ question1.cpp
+  257  ./a.out
+  258  g++ question1.cpp
+  259  ./a.out
+  260  g++ question1.cpp
+  261  ./a.out
+  262  g++ question1.cpp
+  263  clear
+  264  g++ question1.cpp
+  265  ./a.out
+  266  g++ question1.cpp
+  267  ./a.out
+  268  g++ question1.cpp
+  269  ./a.out
+  270  g++ question1.cpp
+  271  ./a.out
+  272  cd Downloads
+  273  cd
+  274  cd Documents
+  275  cd BscINFORMATICS/
+  276  cd COS1512/
+  277  cd Assignment1/
+  278  ls
+  279  code question1.cpp
+  280  get++ question1.cpp
+  281  g++ question1.cpp
+  282  ./a.out 
+  283  cd
+  284  Google\ Chrome
+  285  cd Downloads
+  286  cd
+  287  Documents/BscINFORMATICS/COS1512/Assignment1/
+  288  ls
+  289  dc Documents/BscINFORMATICS/COS1512/Assignment1/
+  290  cd  Documents/BscINFORMATICS/COS1512/Assignment1/
+  291  ls
+  292  code question2.cpp
+  293  ls
+  294  g++ question2.cpp
+  295  ls
+  296  ./a.out 
+  297  g++ question2.cpp
+  298  ./a.out 
+  299  2
+  300  g++ question2.cpp
+  301  ./a.out 
+  302  g++ question2.cpp
+  303  ./a.out 
+  304  g++ question2.cpp
+  305  ./a.out 
+  306  g++ question2.cpp
+  307  ./a.out 
+  308  g++ question2.cpp
+  309  ./a.out 
+  310  g++ question2.cpp
+  311  ./a.out 
+  312  g++ question2.cpp
+  313  ./a.out 
+  314  g++ question2.cpp
+  315  ./a.out 
+  316  g++ question2.cpp
+  317  ./a.out 
+  318  g++ question2.cpp
+  319  ./a.out 
+  320  g++ question2.cpp
+  321  ./a.out 
+  322  g++ question2.cpp
+  323  ./a.out 
+  324  g++ question2.cpp
+  325  ./a.out 
+  326  g++ question2.cpp
+  327  ./a.out 
+  328  g++ question2.cpp
+  329  ./a.out 
+  330  g++ question2.cpp
+  331  ./a.out 
+  332  g++ question2.cpp
+  333  ./a.out 
+  334  g++ question2.cpp
+  335  ./a.out 
+  336  g++ question2.cpp
+  337  ./a.out 
+  338  g++ question2.cpp
+  339  ./a.out 
+  340  g++ question2.cpp
+  341  ./a.out 
+  342  g++ question2.cpp
+  343  ./a.out 
+  344  g++ question2.cpp
+  345  ./a.out 
+  346  g++ question2.cpp
+  347  ./a.out 
+  348  g++ question2.cpp
+  349  ./a.out 
+  350  g++ question2.cpp
+  351  ./a.out 
+  352  cd
+  353  google-chrome
+  354  cd "/home/philani/Documents/BscINFORMATICS/COS1512/Assignment1/" && g++ question1.cpp -o question1 && "/home/philani/Documents/BscINFORMATICS/COS1512/Assignment1/"question1
+  355  cd "/home/philani/Documents/BscINFORMATICS/COS1512/Assignment1/" && g++ question2.cpp -o question2 && "/home/philani/Documents/BscINFORMATICS/COS1512/Assignment1/"question2
+  356  cd Documents/BscINFORMATICS/COS1512/Assignment1/
+  357  ls
+  358  g++ question1.cpp
+  359  ./a.out 
+  360  code question1.cpp
+  361  g++ question1.cpp
+  362  ./a.out 
+  363  g++ question1.cpp
+  364  ./a.out 
+  365  code question1.cpp
+  366  code question2.cpp
+  367  cd
+  368  cd Documents/BscINFORMATICS/COS1512/Assignment1/
+  369  ls
+  370  code question2.cpp
+  371  cd "/home/philani/Documents/BscINFORMATICS/COS1512/Assignment1/" && g++ question1.cpp -o question1 && "/home/philani/Documents/BscINFORMATICS/COS1512/Assignment1/"question1
+  372  cd Documents/BscINFORMATICS/COS1512/
+  373  ls
+  374  code Assignment1/
+  375  cd Documents/BscINFORMATICS/COS1512/Assignment1/
+  376  cd
+  377  cd Documents/BscINFORMATICS/COS1512/Assignment1/
+  378  ls
+  379  g++ question1.cpp
+  380  ./a.out 
+  381  g++ question1.cpp
+  382  ./a.out 
+  383  g++ question2.cpp
+  384  ./a.out 
+  385  CD
+  386  cds
+  387  cd
+  388  google-chrome
+  389  sudo apt update
+  390  cd
+  391  cd Documents
+  392  cd BscINFORMATICS/COS1512/
+  393  ls
+  394  mkdir Practice
+  395  ls
+  396  cd Practice/
+  397  touch getMemerFunctio.cpp
+  398  ls
+  399  code getMemerFunctio.cpp 
+  400  g++ getMemerFunctio.cpp 
+  401  code
+  402  g++ getMemerFunctio.cpp 
+  403  ls
+  404  ./a.out 
+  405  g++ getMemerFunctio.cpp 
+  406  ./a.out 
+  407  goole-chrome
+  408  google-chrome
+  409  python -u "/home/philani/Downloads/FirstProgram/p.py"
+  410  python -u "/home/philani/Desktop/Exercises_Files/Ch2/variables_start.py"
+  411  python3 --version
+  412  code
+  413  python --version
+  414  pyhtho3
+  415  python3
+  416  cd Desktop/
+  417  mkdir Exercises_Files
+  418  cd Exercises_Files/
+  419  mkdir CH2
+  420  mkdir CH3
+  421  mkdir CH4
+  422  mkdir CH5
+  423  mkdir CH6
+  424  LS
+  425  ls
+  426  cd
+  427  code  Exercises_Files
+  428  git --version
+  429  sudo apt-get installl git
+  430  sudo apt-get install git
+  431  git --version
+  432  git --config
+  433  git --config user.name "Philani_Mtembu"
+  434  git config --global  user.name "Philani Mtembu"
+  435  git config --global  user.email "philanimthembu21@gmail.com"
+  436  ls
+  437  cd Documents/
+  438  git clone https://github.com/Philani1/internship.git
+  439  ls
+  440  cd internship
+  441  ls
+  442  cat README.md 
+  443  code README.md 
+  444  CD
+  445  cd
+  446  cd Documents/
+  447  cd internship
+  448  vim README.md 
+  449  git add README.md 
+  450  git commit -m "Added my name and my email on top "
+  451  git push README.md
+  452  git push
+  453  ls
+  454  cd tasks/
+  455  ls
+  456  cd 1
+  457  ls
+  458  cd assets/
+  459  ls
+  460  touch task1.html
+  461  code task1.html 
+  462  cd Documents/
+  463  ls
+  464  cd internship/
+  465  ls
+  466  cd tasks/
+  467  ls
+  468  cd 1
+  469  ls
+  470  cd assets/
+  471  ls
+  472  code task1.html 
+  473  touch content.html
+  474  ls
+  475  code content.html 
+  476  cd Documents/internship/tasks/2
+  477  ls
+  478  cd assets/
+  479  ls
+  480  code task2.html 
+  481  code mystyles.css 
+  482  code myjavascript.js 
+  483  ls
+  484  cd
+  485  google-chrome
+  486  cd Documents/internship/tasks/3
+  487  ls
+  488  cd assets/
+  489  ls
+  490  code task3.html 
+  491  code mystyles.css 
+  492  code myjavascript.js 
+  493  google-chrome
+  494  cd Documents/internship/tasks/3/
+  495  ls
+  496  cd assets/
+  497  ls
+  498  code task3.html 
+  499  code mystyles.css 
+  500  code myjavascript.js 
+  501  ls
+  502  git .
+  503  git add .
+  504  git commit -m ("task3.html, mystyle.css, myjavascript.js and couple of images created, all serve as an answer to task 3")
+  505  git commit -m "task3.html, mystyle.css, myjavascript.js and couple of images created, all serve as an answer to task 3"
+  506  git push
+  507  google-chrome
+  508  man
+  509  pyqt
+  510  cd
+  511  sudo apt install pyqt
+  512  cd Downloads/
+  513  sudo apt install pyqt
+  514  man
+  515  sudo apt install pyqt5
+  516  sudo apt install ./python3-pyqt5_5.11.3+dfsg-1+b3_amd64.deb
+  517  pyqt
+  518  python3 pyqt
+  519  pyQt5
+  520  pyqt5
+  521  cd
+  522  pyqt5
+  523  man
+  524  y
+  525  man
+  526  bash
+  527  code
+  528  cd Downloads/
+  529  ls
+  530  sudo install code_1.49.2-1600965325_amd64.deb 
+  531  sudo apt install code_1.49.2-1600965325_amd64.deb
+  532  sudo apt install code
+  533  code
+  534  cd
+  535  cd Documents/
+  536  ls
+  537  cd
+  538  cd Downloads/
+  539  ls
+  540  cd
+  541  cd Documents/BscINFORMATICS/
+  542  ls
+  543  mkdir INF1511
+  544  cd INF1511/
+  545  LS
+  546  mkdir Assignments
+  547  cd Assignments/
+  548  ls
+  549  mkdir Assignment_3
+  550  ls
+  551  cd Assignment_3/
+  552  touch Qone67981321.py
+  553  code Qone67981321.py 
+  554  ls
+  555  python3 Qone67981321.py 
+  556  clear
+  557  python3 Qone67981321.py 
+  558  touch Qtwo67981321
+  559  code Qtwo67981321 
+  560  python3 Qtwo67981321.py 
+  561  ls
+  562  python3 Qtwo67981321.py 
+  563  python3 Qone67981321.py 
+  564  python3 Qtwo67981321.py 
+  565  python -u "/home/philani/Documents/BscINFORMATICS/INF1511/Assignments/Assignment_3/Qone67981321.py"
+  566  python3
+  567  cd Documents/BscINFORMATICS/INF1511/
+  568  LS
+  569  ls
+  570  cd Assignments/
+  571  ls
+  572  cd Assignment_3/
+  573  ls
+  574  phython3 Qone67981321.py 
+  575  python3 Qone67981321.py 
+  576  python -u "/tmp/tempCodeRunnerFile.py"
+  577  clear
+  578  sudo apt install ./zoom-player_1.1.5_dfsg-3_amd64.deb
+  579  sudo apt install zoom
+  580  cd Downloads/
+  581  sudo apt install ./zoom-player_1.1.5_dfsg-3_amd64.deb
+  582  zoom
+  583  CD
+  584  sudo apt get http://www.deb-multimedia.org stretch main
+  585  cd
+  586  sudo apt get http://www.deb-multimedia.org stretch main
+  587  deb http://www.deb-multimedia.org stretch main
+  588  sudo apt-get update
+  589  sudo apt-get install deb-multimedia-keyring
+  590  $ sudo dpkg --add-architecture i386
+  591  cd Downloads/
+  592  $ sudo dpkg -i AdbeRdr9.5.5-1_i386linux_enu.deb
+  593  $ sudo dpkg -i ./AdbeRdr9.5.5-1_i386linux_enu.deb
+  594  sudo apt install ./AdbeRdr9.5.5-1_i386linux_enu.deb
+  595  cd
+  596  cd Documents/BscINFORMATICS/INF1511/Assignments/Assignment_3/
+  597  LS
+  598  ls
+  599  touch Qthree67981321.py
+  600  code Qthree67981321.py 
+  601  python3 Qthree67981321.py 
+  602  code Qthree67981321.py 
+  603  python3 Qthree67981321.py 
+  604  clear
+  605  python3 Qthree67981321.py 
+  606  touch Qfour67981321.py
+  607  ls
+  608  code Qfour67981321.py 
+  609  python3 Qfour67981321.py 
+  610  clear
+  611  python3 Qfour67981321.py 
+  612  cd
+  613  sudo apt install python3-pip
+  614  clear
+  615  pip3 install --user pyqt5
+  616  sudo apt install python3-pyqt5
+  617  clear
+  618  sudo apt install pyqt5-dev-tools
+  619  sudo apt install qttools5-dev-tools
+  620  cd Documents/BscINFORMATICS/INF1511/Assignments/Assignment_3/
+  621  ls
+  622  pyuic5 -x source.ui -o target.py
+  623  pyuic5 -x untitled.ui -o target.py
+  624  code target.py 
+  625  python3 target.py 
+  626  google-chrome
+  627  python3 /home/philani/.vscode/extensions/ms-python.python-2020.9.112786/pythonFiles/pyvsc-run-isolated.py pip install -U autopep8 --user
+  628  python -u "/home/philani/Documents/BscINFORMATICS/INF1511/Assignments/67981321_INF1511_04_ASSIGNMENT.pyw"
+  629  python3 -u "/home/philani/Documents/BscINFORMATICS/INF1511/Assignments/67981321_INF1511_04_ASSIGNMENT.pyw"
+  630  python -u "/home/philani/Documents/BscINFORMATICS/INF1511/Exercises/guipy.pyw"
+  631  python -u "/home/philani/Documents/BscINFORMATICS/INF1511/Exercises/guipy.py"
+  632  python -u "/home/philani/Documents/BscINFORMATICS/INF1511/Exercises/exam.py"
+  633  code
+  634  cd Documents/BscINFORMATICS/INF1511/Exercises/
+  635  ls
+  636  python3 guipy.pyw 
+  637  python3 guipy.py
+  638  pyuic5
+  639  pyuic5 -x test.ui -o test.py
+  640  ls
+  641  pyuic5 -x test.ui -o test.py
+  642  python3 test.py
+  643  pyuic5 -x test.ui -o test1.py
+  644  ls
+  645  python3 test1.py
+  646  pyuic5 -x test.ui -o test.py
+  647  python3 test.py
+  648  pyuic5 -x test.ui -o test.py
+  649  python3 test.py
+  650  pyuic5 -x photo.ui -o photo.py
+  651  ls
+  652  python3 photo.py
+  653  python3 exam.py
+  654  cd
+  655  cd Downloads/
+  656  ls
+  657  sudo apt install ./discord.deb 
+  658  LS
+  659  ls
+  660  ./UnityHub.AppImage
+  661  chmod u+x UnityHub.AppImage
+  662  ./UnityHub.AppImage
+  663  chmod u+x UnityHub.AppImage
+  664  ./UnityHub.AppImage
+  665  scriptcs "/home/philani/Videos/UnityProjects/Space_Shooter_Pro/Assets/myscript.cs"
+  666  dotnet run
+  667  cd
+  668  cd Downloads/
+  669  sudo apt install ./code_1.50.1-1602600906_amd64.deb 
+  670  cd
+  671  wget https://packages.microsoft.com/config/debian/10/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+  672  sudo dpkg -i packages-microsoft-prod.deb
+  673  sudo apt-get update
+  674  sudo apt-get install -y apt-transport-https && sudo apt-get update && sudo apt-get install -y dotnet-sdk-3.1
+  675  sudo apt-get update
+  676  sudo apt-get install -y apt-transport-https && sudo apt-get update && sudo apt-get install -y aspnetcore-runtime-3.1
+  677  sudo apt-get install -y dotnet-runtime-3.1
+  678  git config --global core.editor "code --wait
+  679  git config --global core.editor "code --wait"
+  680  scriptcs "/home/philani/Videos/UnityProjects/Space_Shooter_Pro/Assets/myscript.cs"
+  681  dotnet /home/philani/Videos/UnityProjects/Space_Shooter_Pro/Assets/myscript.cs
+  682  python -u "/home/philani/Documents/test.py"
+  683  cd
+  684  git config --global core.editor "code --wait"
+  685  xdg-open
+  686  sudo update-alternatives --set editor /usr/bin/code
+  687  cd Downloads/
+  688  ls
+  689  ./Unity.AppImage
+  690  chmod u+x UnityHubSetup.AppImage
+  691  chmod u+x UnityHub.AppImage
+  692  ./Unity.AppImage
+  693  ./UnityHub.AppImage
+  694  cd
+  695  cd Videos/
+  696  ls
+  697  cd UnityProjects/
+  698  ls
+  699  cd Space_Shooter_Pro/
+  700  ls
+  701  cd Assets/
+  702  ls
+  703  code myscript.cs
+  704  dotnet myscript.cs
+  705  dotnet run
+  706  dotnet myscript.cs
+  707  ls
+  708  code myscript.cs
+  709  dotnet run
+  710  code myscript.cs
+  711  ls
+  712  dotnet run
+  713  dotnet new console
+  714  dotnet run
+  715  cd
+  716  cd Videos/UnityProjects/Space_Shooter_Pro/
+  717  ls
+  718  cd Assets/
+  719  ls
+  720  cd Scripts/
+  721  ls
+  722  code Player.cs
+  723  dot new console
+  724  dotnet new console
+  725  google-chrome
+  726  ls
+  727  ls /Documents
+  728  ls /Pictures
+  729  ls ./Documents
+  730  ls /
+  731  pwd
+  732  cd /home/philani/
+  733  cd home/ubuntu/
+  734  cd Documents/
+  735  cd ..
+  736  ../tmp
+  737  cd ./tmp
+  738  cd /tmp
+  739  cd
+  740  cd /tmp
+  741  ls
+  742  cd
+  743  ls -l ./Documents/
+  744  ls -l -t -r ./Documents/
+  745  man ls
+  746  man cd
+  747  man man
+  748  man
+  749  ls
+  750  cd Do
+  751  cd Downloads/
+  752  CD
+  753  cd
+  754  ls
+  755  mkdir UMUZI
+  756  _
+  757  ls
+  758  cd UMUZI/
+  759  ls
+  760  touch mrfrog.py
+  761  ls
+  762  code mrfrog.py 
+  763  cd
+  764  sudo apt update
+  765  git -basic-exercise
+  766  cd Documents/UMUZI/
+  767  ls
+  768  mkdir GitExercisesProjects
+  769  ls
+  770  git init
+  771  cd GitExercisesProjects/
+  772  git init
+  773  cd ../
+  774  rmdir GitExercisesProjects/
+  775  LS
+  776  ls
+  777  mkdir git-basic-exercises
+  778  ls -a
+  779  cd git-basic-exercises/
+  780  ls -a
+  781  git init
+  782  ls -a
+  783  git status 
+  784  touch README.md
+  785  ls -a
+  786  git status
+  787  git log
+  788  git add
+  789  git add README.md 
+  790  git status
+  791  git -m "initial commit"
+  792  git commit -m "initial commit"
+  793  git log
+  794  nano README.md 
+  795  cat README.md 
+  796  git stats
+  797  git status
+  798  git commit -m "second commit"
+  799  git add README.md 
+  800  git status
+  801  git commit -m "second commit"
+  802  nano README.md 
+  803  cat README.md 
+  804  git status
+  805  git add README.md 
+  806  git commit -m "third commit"
+  807  git log
+  808  git checkout c7664877eea3afd0b971ab53cd5b2d4673dc0dd8
+  809  cat README.md 
+  810  git checkout master
+  811  cat README.md 
+  812  git branch
+  813  git branch milkshake-flavours
+  814  git branch
+  815  git branch milkshake-flavours
+  816  git checkout milkshake-flavours 
+  817  git branch 
+  818  nano milkshakes.md
+  819  git status
+  820  git add milkshakes.md 
+  821  git status
+  822  git commit -m "added initial flavours"
+  823  git log
+  824  git checkout master 
+  825  git status
+  826  ls -a
+  827  git log
+  828  git branch history
+  829  git checkout history
+  830  git branch
+  831  git log
+  832  history > history.txt
